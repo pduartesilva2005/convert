@@ -161,7 +161,7 @@ footer h1 {
   word-break: break-all;
 }
 
-@media (width <= 425px) {
+@media (width = 425px) {
   body {
     max-width: 26.5rem;
   }
@@ -175,7 +175,7 @@ footer h1 {
   }
 }
 
-@media (width <= 320px) {
+@media (width = 320px) {
   body {
     padding-bottom: 0.8rem;
   }
